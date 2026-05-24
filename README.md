@@ -21,15 +21,6 @@ AI & NLP Enthusiast | Backend Developer | Tech Explorer
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
 
-## 📊 GitHub Stats
-
-![Laxmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=laxmiyadav708&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmiyadav708&layout=compact&theme=tokyonight)
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=laxmiyadav708)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🔥 GitHub Streak
 
